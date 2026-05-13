@@ -43,3 +43,23 @@ System features:
 - Multi-speed control based on signal amplitude
 - EMG-triggered mouse clicking
 - Five degrees of freedom using different muscle groups
+
+## Project 3: Wearable Smart Pedometer System
+
+Wearable rehabilitation-focused pedometer designed to monitor step count using an accelerometer attached to the leg.
+
+Files included:
+- `smart_pedometer_rehabilitation_device.ino` --> Arduino code for step detection, LED progress feedback, and goal completion alerts
+- `Scenario II.pdf` --> technical report covering device motivation, prototype design, circuit layout, testing, and clinical relevance
+
+Key concepts:
+- Wearable medical devices
+- Rehabilitation monitoring
+- Accelerometer-based step detection
+- Adafruit Circuit Playground
+- LilyPad ADXL335 accelerometer
+- Embedded systems programming
+- Real-time LED feedback
+- Patient activity tracking
+- Sensitivity and specificity analysis
+- Biomedical device prototyping
