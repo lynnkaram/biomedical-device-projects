@@ -82,3 +82,23 @@ Key concepts:
 - Frequency-domain analysis
 - Noise reduction in biosignals
 - Biopotential measurements
+
+## Project 5: PPG Pulse Plethysmograph System
+
+Arduino-based photoplethysmography (PPG) system designed for optical pulse detection and physiological signal acquisition.
+
+Files included:
+
+- `ppg_signal_processing_system.ino` --> Arduino code for converting the analog PPG signal into a digital signal for visualization and analysis
+- `PPG New Final Report.pdf` --> technical report containing circuit design, signal conditioning stages, experimental setup, and physiological signal analysis
+
+Key concepts:
+
+- Photoplethysmography (PPG)
+- Optical biosignal sensing
+- Analog-to-digital conversion
+- Signal amplification and filtering
+- Biomedical instrumentation
+- Arduino serial communication
+- Real-time physiological monitoring
+- Pulse waveform acquisition and visualization
