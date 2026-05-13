@@ -102,3 +102,22 @@ Key concepts:
 - Arduino serial communication
 - Real-time physiological monitoring
 - Pulse waveform acquisition and visualization
+
+## Project 6: Pacemaker Lead Material Selection
+
+Biomedical engineering project investigating suitable wire materials for pacemaker leads based on flexibility, cross-sectional area, and biocompatibility requirements.
+
+Files included:
+
+- `Pacemaker_Assignment.pdf` --> technical report evaluating multiple wire materials for use in pacemaker leads, including flexibility testing, dimensional analysis, and FDA biocompatibility considerations
+
+Key concepts:
+
+- Pacemaker lead design
+- Biomaterials and biocompatibility
+- Flexibility and mechanical testing
+- Cross-sectional area calculations
+- Biomedical device material selection
+- FDA-approved medical materials
+- Experimental measurements and data analysis
+- Biomedical engineering laboratory methods
