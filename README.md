@@ -63,3 +63,22 @@ Key concepts:
 - Patient activity tracking
 - Sensitivity and specificity analysis
 - Biomedical device prototyping
+
+## Project 4: ECG Filtering and Analysis
+
+Investigation of ECG signal filtering requirements and analog signal conditioning for biopotential measurements.
+
+Files included:
+
+- `ECG Assignment.pdf` --> report covering ECG signal acquisition, filtering stages, and frequency analysis
+
+Key concepts:
+
+- ECG signal processing
+- High-pass and low-pass filtering
+- Notch filter design
+- Analog biomedical instrumentation
+- Signal conditioning
+- Frequency-domain analysis
+- Noise reduction in biosignals
+- Biopotential measurements
